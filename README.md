@@ -9,3 +9,7 @@ An example of how that start the setup of a repo following some branching rules
 
 ### Code standards
 Make sure to follow our code standards and our directions how to setup the preferences for code formatting VSC. See our Intranet!
+
+### Features / user stories
+* As a user I want to see a nice greeting on the start page, so that I feel welcome.
+* As a user I want to be able to navigate between pages using a main menu displayed at the top of each page.
