@@ -13,5 +13,6 @@ Make sure to follow our code standards and our directions how to setup the prefe
 ### Features / user stories
 * As a user I want to see a nice greeting on the start page, so that I feel welcome.
 * As a user I want to be able to navigate between pages using a main menu displayed at the top of each page.
+* AS a user I want to be able to use a search bar
 
 Direct change in dev, because I can /Ironboy
